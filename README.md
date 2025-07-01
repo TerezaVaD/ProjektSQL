@@ -10,7 +10,7 @@ Tento projekt analyzuje vývoj mezd a cen potravin v České republice a jejich 
 - Obsahuje i výpočet toho, kolik jednotek určité potraviny si lze koupit za průměrnou mzdu (tzv. "purchasable amount").
 
 ### `t_tereza_dostalikova_project_sql_secondary_final`
-- Data pro **další evropské státy**: HDP, GINI index, počet obyvatel, typ vlády, nadmořská výška apod.
+- Data pro **další evropské státy**:  HDP, GINI koeficient a populace dalších evropských států.
 - Slouží k mezinárodnímu srovnání a k doplňkové analýze vztahů mezi makroekonomickými ukazateli.
 
 ---

@@ -1,0 +1,2 @@
+# ProjektSQL
+Dostupnost zakladnich potravin

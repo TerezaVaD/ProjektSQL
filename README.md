@@ -40,7 +40,6 @@ ORDER BY diff;
 | Ubytování, stravování a pohostinství                           | 2006          | 2018        | 11 390,00                     | 18 769,88                   | 7 379,88    |
 | Činnosti v oblasti nemovitostí                                 | 2006          | 2018        | 18 396,38                     | 27 584,25                   | 9 187,87    |
 | Zásobování vodou; činnosti související s odpady a sanacemi    | 2006          | 2018        | 18 490,13                     | 28 498,13                   | 10 008,00   |
-
 | Doprava a skladování                                          | 2006          | 2018        | 19 125,25                     | 29 297,63                   | 10 172,38   |
 | Stavebnictví                                                | 2006          | 2018        | 17 747,00                     | 27 994,13                   | 10 247,13   |
 | Vzdělávání                                                 | 2006          | 2018        | 19 113,50                     | 29 745,00                   | 10 631,50   |

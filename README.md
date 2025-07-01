@@ -73,6 +73,7 @@ FROM t_tereza_dostalikova_project_sql_primary_final
 WHERE year IN (2006, 2018) AND product IN ('Chléb konzumní kmínový', 'Mléko polotučné pasterované')
 GROUP BY product, year
 ORDER BY product, year;
+```
 
 ### Výstup (ukázka):
 | Produkt                     | Rok  | Průměrná cena (Kč) | Průměrná mzda (Kč) | Dostupné množství |
@@ -134,6 +135,7 @@ SELECT *
 FROM average_growth_per_product
 ORDER BY avg_percent_growth ASC
 --LIMIT 1;
+```
 
 ### Výstup (ukázka):
 | Produkt                      | Průměrný meziroční růst (%) |
@@ -198,6 +200,7 @@ SELECT *
 FROM differences
 --WHERE difference > 10
 ORDER BY difference DESC;
+```
 
 ### Výstup (ukázka):
 | Rok  | Nárůst cen potravin (%) | Nárůst mezd (%) | Rozdíl (%) |
@@ -278,6 +281,7 @@ percent_changes AS (
 SELECT *
 FROM percent_changes
 ORDER BY year;
+```
 
 ## Vystup:
 | Rok  | Růst HDP (%) | Růst mezd (%) | Růst cen potravin (%) | Růst mezd následující rok (%) | Růst cen potravin následující rok (%) |

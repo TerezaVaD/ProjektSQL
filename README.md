@@ -29,7 +29,7 @@ SELECT
   MAX(tdp.average_salary) - MIN(tdp.average_salary) AS diff
 FROM t_tereza_dostalikova_project_sql_primary_final tdp
 GROUP BY tdp.industry
-ORDER BY diff;
+ORDER BY diff;```
 
 ### Výstup (ukázka - prvních pět a posledních pět odvětví):
 | Odvětví                                                        | Počáteční rok | Konečný rok | Průměrná mzda na začátku (Kč) | Průměrná mzda na konci (Kč) | Rozdíl (Kč) |
